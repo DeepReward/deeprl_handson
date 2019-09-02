@@ -1,0 +1,3 @@
+[submodule "notebooks/Deep-Reinforcement-Learning-Hands-On"]
+	path = notebooks/Deep-Reinforcement-Learning-Hands-On
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On.git
